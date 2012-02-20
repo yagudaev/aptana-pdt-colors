@@ -1,0 +1,18 @@
+#Sun Feb 19 18:58:52 CST 2012
+SEMI_COLON=\#ffffff | null | false | false | false | false
+COLON=\#ffffff | null | false | false | false | false
+CURLY_BRACE=\#a0ab7d | null | false | false | false | false
+SELECTOR=\#d7b67c | null | false | false | false | false
+STRING=\#a0ab7d | null | false | true | false | false
+NORMAL=\#ffffff | null | false | false | false | false
+COMBINATOR=\#d7b67c | null | false | false | false | false
+PROPERTY_VALUE=\#fbf0a8 | null | false | true | false | false
+ATTRIBUTE_DELIM=\#ffffff | null | false | false | false | false
+ID=\#9ca9b9 | null | false | true | false | false
+eclipse.preferences.version=1
+PROPERTY_NAME=\#d0bc88 | null | false | false | false | false
+ATTRIBUTE_NAME=\#d0bc88 | null | false | false | false | false
+URI=\#fbf0a8 | null | false | true | false | false
+COMMENT=\#726d73 | null | false | false | false | false
+ATMARK_RULE=\#d7b67c | null | false | false | false | false
+CLASS=\#ac8350 | null | false | true | false | false
