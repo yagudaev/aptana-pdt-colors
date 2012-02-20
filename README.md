@@ -1,0 +1,1 @@
+Color scheme for PDT for use with aptana download all the files and extract them into <workspace>/.metadata/.plugins/org.eclipse.core.runtime/.settings/. You will need to do this every time you create a new workspace in order to perseve your prefernces.
