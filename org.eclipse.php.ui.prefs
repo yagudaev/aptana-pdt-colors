@@ -1,0 +1,36 @@
+#Sun Dec 25 15:59:52 CST 2011
+semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.FieldHighlighting.enabled=false
+editorColorPhpdoc=\#726d73 |  | true | false | false | false
+editorColorKeyword=\#d7b67c | null | false | false | false | false
+semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.InternalConstantHighlighting.color=\#da7f5e
+cleanup.remove_trailing_whitespaces_all=true
+semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.StaticFieldHighlighting.enabled=false
+semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.StaticMethodHighlighting.enabled=false
+editorColorTask=\#000000 |  | true | false | false | false
+editorColorComment=\#709080 | null | false | false | false | false
+codeStyleNormal=\#dcdccc | null | false | false | false | false
+semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.DeprecatedHighlighting.enabled=false
+semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.FunctionHighlighting.enabled=true
+useAnnotationsPrefPage=true
+eclipse.preferences.version=1
+org.eclipse.php.core.workspaceDefaultLocale=en_CA
+editorColorPHPDocComment=\#726d73 | null | false | true | false | false
+cleanup.remove_trailing_whitespaces=false
+org.eclipse.php.ui.editor.templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+editorColorString=\#a0ab7d | null | false | false | false | false
+editorColorNumber=\#cc9393 | null | false | false | false | false
+semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.MethodHighlighting.enabled=true
+editorColorHeredoc=\#000000 | null | false | false | false | false
+semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.MethodHighlighting.color=\#fbf0a8
+org.eclipse.php.uihoverModifierMasks=org.eclipse.php.ui.editor.hover.BestMatchHover;0;org.eclipse.php.debug.ui.hovers.PHPDebugTextHover;0;org.eclipse.php.xdebug.ui.hover.XDebugTextHover;0;org.eclipse.php.ui.editor.hover.ProblemHover;0;org.eclipse.php.ui.editor.hover.PHPDocumentationHover;0;org.eclipse.php.ui.editor.hover.PHPSourceTextHover;262144;org.eclipse.php.ui.editor.hover.PHPAnnotationTextHover;0;
+semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.InternalConstantHighlighting.italic=false
+editorColorVariable=\#879ab5 | null | false | false | false | false
+semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.InternalConstantHighlighting.bold=false
+semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.InternalConstantHighlighting.enabled=true
+editorColorBoundarymaker=\#a0ab7d | null | false | false | false | false
+cleanup.remove_trailing_whitespaces_ignore_empty=false
+useQuickDiffPrefPage=true
+org.eclipse.php.uihoverModifiers=org.eclipse.php.ui.editor.hover.BestMatchHover;0;org.eclipse.php.debug.ui.hovers.PHPDebugTextHover;\!0;org.eclipse.php.xdebug.ui.hover.XDebugTextHover;\!0;org.eclipse.php.ui.editor.hover.ProblemHover;\!0;org.eclipse.php.ui.editor.hover.PHPDocumentationHover;\!0;org.eclipse.php.ui.editor.hover.PHPSourceTextHover;Ctrl;org.eclipse.php.ui.editor.hover.PHPAnnotationTextHover;\!0;
+editorColorLineComment=\#736d69 | null | false | true | false | false
+semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.FunctionHighlighting.color=\#fbf0a8
+org.eclipse.php.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
